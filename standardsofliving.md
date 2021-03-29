@@ -6,22 +6,22 @@ draft: false
 
 #Standards of Living
 
-![SoL](https://henriantikainen.github.com/images/sol/1.jpg)
+![SoL](https://raw.githubusercontent.com/henriantikainen/henriantikainen.github.io/sol/1.jpg)
 
-![SoL](https://henriantikainen.github.com/images/sol/2.jpg)
+![SoL](https://raw.githubusercontent.com/henriantikainen/henriantikainen.github.io/sol/2.jpg)
 
-![SoL](https://henriantikainen.github.com/images/sol/3.jpg)
+![SoL](https://raw.githubusercontent.com/henriantikainen/henriantikainen.github.io/sol/3.jpg)
 
-![SoL](https://henriantikainen.github.com/images/sol/4.jpg)
+![SoL](https://raw.githubusercontent.com/henriantikainen/henriantikainen.github.io/sol/4.jpg)
 
-![SoL](https://henriantikainen.github.com/images/sol/5.jpg)
+![SoL](https://raw.githubusercontent.com/henriantikainen/henriantikainen.github.io/sol/5.jpg)
 
-![SoL](https://henriantikainen.github.com/images/sol/6.jpg)
+![SoL](https://raw.githubusercontent.com/henriantikainen/henriantikainen.github.io/sol/6.jpg)
 
-![SoL](https://henriantikainen.github.com/images/sol/7.jpg)
+![SoL](https://raw.githubusercontent.com/henriantikainen/henriantikainen.github.io/sol/7.jpg)
 
-![SoL](https://henriantikainen.github.com/images/sol/8.jpg)
+![SoL](https://raw.githubusercontent.com/henriantikainen/henriantikainen.github.io/sol/8.jpg)
 
-![SoL](https://henriantikainen.github.com/images/sol/9.jpg)
+![SoL](https://raw.githubusercontent.com/henriantikainen/henriantikainen.github.io/sol/9.jpg)
 
-![SoL](https://henriantikainen.github.com/images/sol/10.jpg)
+![SoL](https://raw.githubusercontent.com/henriantikainen/henriantikainen.github.io/sol/10.jpg)
