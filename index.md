@@ -1,5 +1,5 @@
 ## Projects
 
-### [Standards of Living](https://henriantikainen.github.com/posts/standardsofliving.md/)
+### [Standards of Living](https://henriantikainen.github.com/standardsofliving.md/)
 
-### [Suburban Saints](https://henriantikainen.github.com/posts/suburbansaints.md/)
+### [Suburban Saints](https://henriantikainen.github.com/suburbansaints.md/)
